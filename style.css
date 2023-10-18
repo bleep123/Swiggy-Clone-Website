@@ -1,0 +1,138 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.home{
+    display: flex;
+    height: 657px;
+}
+.navbar{
+    display: flex;
+    margin-top: 57px;
+    margin-left: -37px;
+    padding: 20px;
+}
+.left{
+    margin-left: 93px;
+}
+.logo{
+    padding: 20px;
+}
+.login{
+    padding: 33px;
+    background-color: white;
+    color: black;
+    height: 36px;
+    width: -13px;
+    border: white;
+    font-size: 20px;
+    margin-left: 98px;
+}
+.signup{
+    padding: 20px;
+    background-color: black;
+    color: white;
+    margin-left: 50px;
+    height: 51px;
+    width: 132px;
+    margin-top: 20px;
+}
+input{
+    width: 359px;
+    height: 56px;
+    border-color: #F4511E;
+}
+.food{
+    padding: 20px;
+    background-color: #F4511E;
+    color: white;
+    border-color: #F4511E;
+}
+.heading_a{
+    font-size: 50px;
+    font-family: monospace;
+}
+.para_a{
+    font-size: 20px;
+    color: gray;
+}
+.heading_b{
+    color: gray;
+}
+.para_b{
+    color: gray;
+    font-size: 20px;
+}
+.right{
+    margin-left: 90px;
+}
+.ss{
+    width:784px;
+}
+.mid_a{
+    display: flex;
+    background-color: #241313;
+    color: white;
+    margin-top: -40px;
+}
+.img{
+    height: 190px;
+    padding: 82px;
+}
+.div_a{
+    margin-left: 72px;
+    padding: 60px;
+}
+.div_b{
+    margin-left:154px;
+    padding: 60px;
+}
+.div_c{
+    margin-left: 84px;
+    padding: 60px;
+}
+.mid_b{
+    display: flex;
+}
+.desc{
+    margin-top: 116px;
+    margin-left: 174px;
+}
+.heading_c{
+    font-size:50px;
+}
+.phoneimg{
+    margin-left: 228px;
+}
+.googleplay{
+    display: flex;
+}
+footer{
+    display: flex;
+    background-color: black;
+    color: white;
+}
+.company{
+    margin-left: 197px;
+}
+.contact{
+    margin-left: 216px;
+}
+.legal{
+    margin-left: 217px;
+}
+.footerimg{
+    margin-left: 162px;
+    border-color:white;
+}
+.app{
+   margin-top: 20px;
+   border-color:white;
+}
+.gp{
+   margin-top: 40px;
+   border-color:white;
+}
+.footerdiv{
+    margin-top: 20px;
+}
